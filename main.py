@@ -51,3 +51,4 @@ sentence_2 = f"""Pour new_a={new_a}, new_b={new_b}:
     
 """
 print(sentence_2)
+print("Coucou")
