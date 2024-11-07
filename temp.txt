@@ -1,0 +1,11 @@
+Resultats pour a=2 et b=3
+    -somme = 5
+    -diff = -1
+
+    -mult = 6
+    -div = 0.6666666666666666
+    -div_entiere = 0
+    -reste_div = 2
+
+    -expo = 8
+
